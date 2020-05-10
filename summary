@@ -1,0 +1,5 @@
+Model Used = Random Forest Classifier
+to prevent overfitting i used 200 different trees.
+feature extracted = country,review_title,province,points,price.
+model accuracy in training set = 99.79%
+
